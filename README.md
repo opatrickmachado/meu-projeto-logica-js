@@ -14,4 +14,4 @@ Este repositório contém soluções para problemas de lógica de programação 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/opatrickmachado/projeto-logica-js.git
+   git clone [https://github.com/opatrickmachado/projeto-logica-js.git](https://github.com/opatrickmachado/meu-projeto-logica-js)
